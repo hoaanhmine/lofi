@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Sober", "lofi", [34, 51, 68]],
+		["Serenity", "lofi", [34, 51, 68]],
+		["Slow Jam", "lofi", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "bed",
+	"difficulties": "Normal",
+	"storyName": "yes yes i do",
+	"weekBefore": "week1",
+	"weekName": "Lofi2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

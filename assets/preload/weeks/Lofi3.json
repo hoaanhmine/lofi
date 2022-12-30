@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Dial-It-Back", "lofi-car", [148, 22, 83]],
+		["Reflections", "lofi-car", [148, 22, 83]],
+		["Twilight-Serenade", "lofi-car", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "philly",
+	"difficulties": "Normal",
+	"storyName": "yay",
+	"weekBefore": "week2",
+	"weekName": "Lofi3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

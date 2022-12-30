@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Dial-It-Back-Remix", "lofi-night", [252, 150, 215]],
+		["Reflections-Two", "lofi-night", [252, 150, 215]],
+		["Twilight-Serenade-Remix", "lofi-night", [252, 150, 215]]
+	],
+	
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "limo",
+	"difficulties": "Normal",
+	"storyName": "wow",
+	"weekBefore": "week3",
+	"weekName": "LofiRemix",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

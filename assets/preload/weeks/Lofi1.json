@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Imaginations", "lofi", [146, 113, 253]],
+		["Heartbroken", "lofi", [146, 113, 253]],
+		["Sunset", "lofi", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "room",
+	"difficulties": "Normal",
+	"storyName": "Do u like lofi funkin",
+	"weekBefore": "tutorial",
+	"weekName": "Lofi1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
